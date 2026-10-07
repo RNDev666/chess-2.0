@@ -25,7 +25,7 @@ bun run dev
 ### GitHub Template (Recommended)
 Use the **template** branch for a clean starting point:
 ```bash
-git clone -b template https://github.com/bezalel6/chess-2.0.git my-chess-app
+git clone -b template https://github.com/RNDev666/chess-2.0.git my-chess-app
 cd my-chess-app
 bun install
 bun run dev

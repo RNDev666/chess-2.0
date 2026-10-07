@@ -6,7 +6,7 @@ Quick guide to using Chess 2.0 as a template for your chess projects.
 
 ```bash
 # 1. Clone and initialize
-git clone https://github.com/bezalel6/chess-2.0.git my-chess-app
+git clone https://github.com/RNDev666/chess-2.0.git my-chess-app
 cd my-chess-app
 rm -rf .git && git init
 
